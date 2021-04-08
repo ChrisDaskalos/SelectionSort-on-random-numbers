@@ -8,8 +8,7 @@ void printArr(const int *arr,int n);
 
 int main(void)
 {
-	int arr[SIZE];
-	int r;	
+	int arr[SIZE];	
 	int range;
 	printf("Enter number range: ");
 	scanf("%d",&range);
